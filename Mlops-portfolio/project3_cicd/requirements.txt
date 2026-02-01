@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+flake8
+mlflow
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn
+dvc
